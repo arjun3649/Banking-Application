@@ -1,0 +1,23 @@
+body {
+    background-image: url(bgfinal.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    }
+    
+#logout{
+	padding: 10px;
+	margin-top: 10px;
+}
+
+#service{
+	padding: 50px;
+	margin-bottom: 30px;
+}
+
+#aservice{
+	margin: 20px;
+	font-family: "Merriweather", serif;
+    font-weight: bold;
+}
+

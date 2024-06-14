@@ -1,0 +1,21 @@
+body {
+	background-image: url(bgfinal.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+    
+#head{
+	margin-top: 45px;
+	font-family: "Merriweather", serif;
+    font-weight: bold;
+}
+
+#page{
+	padding: 50px;
+}
+ 
+#button{
+	margin: 20px;
+	margin-left: 110px;
+}
